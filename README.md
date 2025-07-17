@@ -1,6 +1,7 @@
 # Portfolio Projects
 
-In this portfolio, I have included data projects that showcase my technical skills as well as analytical capability. You will find documents, workbooks, presentation slides, and dashboards created with SQL, Tableau, Excel, Power BI, Python and PowerPoint. These projects demonstrate my ability to organize, analyze, and present data in a clear and visually appealing way, making it easy for anyone to understand and make informed decisions.
+This portfolio highlights a selection of data projects that reflect both my technical expertise and analytical thinking. It includes documents, workbooks, presentation slides, and dashboards developed using SQL, Tableau, Excel, Power BI, Python, and PowerPoint. Each project demonstrates my ability to structure, analyze, and present data in a clear, insightful, and visually engaging manner—making complex information accessible for informed decision-making.
+I always welcome feedback and suggestions to help me grow and improve.
 
 ### Contents 
 
@@ -8,7 +9,7 @@ In this portfolio, I have included data projects that showcase my technical skil
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) (https://public.tableau.com/app/profile/mariam.ahmed7642/vizzes)
 
 ## Excel Projects 
 ## Power BI Projects 
