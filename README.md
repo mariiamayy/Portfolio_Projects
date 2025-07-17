@@ -9,7 +9,7 @@ I always welcome feedback and suggestions to help me grow and improve.
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) (https://public.tableau.com/app/profile/mariam.ahmed7642/vizzes)
+![(Tableau)(https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mariam.ahmed7642/vizzes)
 
 ## Excel Projects 
 ## Power BI Projects 
