@@ -92,6 +92,42 @@ SQL · Joins · CTEs · Aggregation · Subqueries · Window Functions · Views �
 
 ## Python Projects 
 
+### 🧹 Customer & Products Data Cleaning Project
+This project involved cleaning preprocessing and merging customer and product datasets using Python to prepare them for downstream analysis and visualization.
+
+Notebook 
+
+Key Highlights:
+- Removed duplicates, handled null values, and corrected inconsistent data entries
+- Standardized column names and formats across datasets
+- Generated clean, analysis-ready combined dataset for further use
+
+Skills Used:
+Pandas · Data Cleaning · Data Merging · Data Preprocessing
+
+### 🎬 Movie Data Cleaning Project
+
+### 🚔 Police Data Cleaning Project
+
+### 🌐 Web Scraping Project
+This project demonstrated web scraping techniques to collect data from online sources for custom analysis and reporting.
+
+Notebook 
+
+Key Highlights:
+- Scraped structured and semi-structured data using requests and BeautifulSoup
+ Cleaned and structured scraped data into tabular format
+- Exported results to CSV for future use in visualization or analysis
+
+Skills Used:
+Web Scraping · BeautifulSoup · Requests · Data Extraction 
+
+### 📊 Matplotlib Visualization Tasks
+A collection of visualization tasks completed using Matplotlib and Numpy to explore and communicate insights 
+
+Skills Used:
+Numpy · Matplotlib · Data Visualization · Plot Customization · Exploratory Data Analysis (EDA)
+
 ## Tableau
 
 View my vizzes here >> [Tableau](https://public.tableau.com/app/profile/mariam.ahmed7642/vizzes). 
