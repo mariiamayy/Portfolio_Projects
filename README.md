@@ -128,6 +128,38 @@ A collection of visualization tasks completed using Matplotlib and Numpy to expl
 Skills Used:
 Numpy · Matplotlib · Data Visualization · Plot Customization · Exploratory Data Analysis (EDA)
 
+### 🏋️‍♀️ Calories & Workouts Python Analysis Project
+This project explores and analyzes a workout dataset using Python. The main objective was to clean, transform, and visualize fitness data to uncover insights into workout duration, pulse, and calories burned.
+
+Notebook 
+
+Key Highlights:
+- Data Cleaning:
+
+Replaced missing values in the Calories column with the mean
+
+Corrected inconsistent or erroneous entries (e.g., extreme duration values, invalid dates)
+
+Standardized date formats using pandas.to_datetime and ensured proper data types
+
+- Feature Engineering:
+
+Created a new categorical column Intensity based on Pulse to segment workouts by effort level
+
+- Data Visualization:
+
+Line Plot: Tracked calories burned over time to observe workout trends
+
+Bar Plot: Visualized average calories burned by different workout durations
+
+Scatter Plot: Analyzed the relationship between Pulse and Calories, colored by duration
+
+Categorical Plot: Counted workouts by intensity level (Low, Moderate, High)
+
+Skills Used:
+Python · Pandas · Seaborn · Matplotlib · Data Cleaning · Feature Engineering · Data Visualization · Exploratory Data Analysis (EDA)
+
+
 ## Tableau
 
 View my vizzes here >> [Tableau](https://public.tableau.com/app/profile/mariam.ahmed7642/vizzes). 
