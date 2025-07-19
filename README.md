@@ -14,6 +14,56 @@ I always welcome feedback and suggestions to help me grow and improve.
  
 
 ## Excel Projects 
+
+### 👩‍💼 Employee Data Analysis – Excel Assessment Project
+
+This project involved analyzing employee data in Excel to uncover insights related to workforce performance, training, satisfaction, and diversity. The goal was to assess various HR metrics through pivot tables, formulas, charts, and dashboard creation, catering to different skill levels from beginner to advanced.
+
+Key Highlights:
+
+* Created pivot tables to summarize headcount by department, engagement by department, and satisfaction by gender.
+* Applied conditional formatting to highlight underperformers and top/bottom 10% based on performance ratings.
+* Used **VLOOKUP**, **INDEX + MATCH** to retrieve employee-specific information like supervisor email and training program name.
+* Built visualizations: bar charts for training costs, histograms for exit dates, and scatter plots to analyze training duration vs. cost.
+* Filtered terminated employees to identify the most common termination reasons.
+* Designed a multi-level pivot table for performance score analysis across business units and job functions.
+* Created dynamic and interactive charts to track individual employee performance over time.
+* Built an automated macro to refresh all pivot tables.
+* Developed a comprehensive HR dashboard displaying KPIs like headcount, training expenses, and average engagement.
+
+Skills Used:
+Excel · Pivot Tables · Conditional Formatting · VLOOKUP · INDEX + MATCH · Data Visualization · Charts · Macros · SUMPRODUCT · Dashboard Design · HR Metrics Analysis
+
+### 📊 Employee Survey Data Analysis – Excel Assessment Project
+
+This project focused on analyzing employee survey responses using a wide range of Excel tools. The objective was to clean and validate data, derive insights from response patterns, and build dynamic reports and dashboards for HR decision-making. Designed for interns across all skill levels, the assessment emphasizes both foundational and advanced Excel capabilities.
+
+Key Highlights:
+
+* Imported and cleaned survey data, addressing missing and inconsistent values.
+* Applied **data validation** to restrict response inputs to a 0–4 range.
+* Used **conditional formatting** to visually highlight negative feedback like “Strongly Disagree.”
+* Categorized responses using **IF** and **nested IF** logic into Positive, Neutral, or Negative groups.
+* Employed **VLOOKUP** and **HLOOKUP** to create a summary sheet for department- and question-specific insights.
+* Built **pivot tables** with slicers to analyze average responses by department and added **calculated fields** for deeper question-level analysis.
+* Created **pivot charts** to visualize average response trends.
+* Applied **INDEX-MATCH** to return response text based on numerical values.
+* Converted the dataset into an Excel **Table** for structured analysis and scalability.
+* Ran **Scenario Manager** to simulate optimistic, pessimistic, and realistic feedback scenarios.
+* Used **Solver Add-In** to optimize response distribution under specific constraints.
+* Designed a **Waterfall Chart** to visualize the net effect of positive and negative responses in a department.
+* Created **dynamic named ranges** to auto-extend analysis as new data is added.
+* Built relationships in the **Excel Data Model** and wrote **DAX measures** to compute overall averages.
+* Utilized **Goal Seek** for targeted response adjustments.
+* Developed an **interactive dashboard** with dropdowns and buttons to explore KPIs and survey metrics dynamically.
+
+Skills Used:
+Excel · Data Cleaning · Data Validation · Conditional Formatting · Pivot Tables · VLOOKUP · INDEX-MATCH · IF Logic · Solver · Scenario Manager · Dynamic Ranges · Data Modeling · DAX · Dashboard Design · What-If Analysis · Charting
+
+### 📚 Best Seller Books Analysis 
+
+### ☕ Coffee Orders Dashboard
+
 ## Power BI Projects 
 
 ## SQL Projects 
