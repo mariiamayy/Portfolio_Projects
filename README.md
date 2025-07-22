@@ -66,6 +66,150 @@ Excel · Data Cleaning · Data Validation · Conditional Formatting · Pivot Tab
 
 ## Power BI Projects 
 
+### 📦 Olist E-Commerce  Dashboard Project - Tech Her Up Project 
+
+This project focused on analyzing Brazilian e-commerce data from Olist using Power BI to uncover business insights across sales performance, customer behavior, delivery metrics, and product trends. The goal was to create a comprehensive dashboard that supports strategic decision-making for growth, customer satisfaction, and operational efficiency.
+
+Key Highlights:
+
+- Imported and modeled multiple datasets, including orders, customers, payments, and geolocation data from Olist’s public Kaggle repository.
+- Built an interactive Sales & Performance Dashboard showing:
+
+Total revenue (~15.84M BRL), total orders (~99.44K), and number of active sellers (3,095).
+
+Year-over-year revenue growth, highlighting a peak in April 2018.
+
+Freight-to-order value ratio to analyze shipping cost impact on profitability.
+
+Average delivery times broken down by order stages, identifying delays mainly in the shipping phase.
+
+- Designed a Customer Analysis Dashboard showing:
+
+Distribution of customers by Brazilian states and top-performing cities.
+
+Identification of cities with highest customer count (São Paulo) and highest revenue (Rio de Janeiro).
+
+Breakdown of preferred payment methods with Credit Card usage dominating at 73.92%.
+
+- Developed a Product Analysis Dashboard to:
+
+Analyze order volume and pricing across 72 product categories.
+
+Highlight most ordered categories (e.g., Bed Bath Table) vs. most profitable (e.g., Health Beauty).
+
+Identify key products driving high revenue.
+
+- Proposed actionable recommendations based on the analysis, such as optimizing freight costs, improving delivery times, focusing marketing on top cities, and incentivizing preferred payment types.
+
+- Presented all insights in a clean, interactive Power BI report with slicers and filters for user-driven exploration.
+
+Skills Used:
+Power BI · Data Modeling · DAX · Data Cleaning · Data Visualization · Business Intelligence · Sales Analysis · Customer Segmentation · Product Analytics · KPI Dashboards · Storytelling with Data
+
+### ✈️ Customer Loyalty & Flight Activity Analysis 
+This project focused on analyzing customer demographics, loyalty trends, flight activity, and revenue performance for a fictional airline loyalty program. The objective was to generate actionable insights through advanced Power BI dashboards by integrating multiple data sources, modeling relationships, and applying business logic to customer behavior and financial outcomes.
+
+Key Highlights:
+
+- Data Preparation and Modeling:
+
+Imported and cleaned data from four sources: Customer, Flight Activity, Loyalty History, and Calendar using Power BI and Excel.
+
+Validated data types, checked for null values, and built relationships to support seamless cross-table analysis.
+
+- Customer Segmentation & Loyalty Insights:
+
+Segmented customers into high-, medium-, and low-value tiers based on Customer Lifetime Value (CLV).
+
+Visualized CLV distribution across loyalty card tiers (Star, Nova, Aurora) and analyzed average CLV per tier.
+
+Tracked churn rate by identifying customers who canceled memberships and its impact on overall CLV.
+
+- Flight Activity and Revenue Analysis:
+
+Developed bar and line charts to analyze:
+
+Total flights booked per year
+
+Enrollment and cancellation trends over time
+
+Monthly and quarterly revenue based on flights and dollar-point redemptions
+
+Active customers per month and seasonal booking behavior
+
+Conducted What-If Analysis using parameter inputs to simulate enrollment promotions and their effects on CLV.
+
+- Geographic and Demographic Exploration:
+
+Mapped customer locations across countries and provinces using Power BI’s map visual.
+
+Built drill-through capabilities for granular analysis by location (country → province → city).
+
+Analyzed customer profiles based on gender, education level, marital status, and enrollment type.
+
+- Correlations and Patterns:
+
+Used scatter plots to study the relationship between flight distance and loyalty points earned.
+
+Calculated and visualized average CLV across customer types and enrollment categories.
+
+- Dashboard & Presentation:
+
+Assembled all visuals into a fully interactive dashboard with slicers for time, geography, loyalty level, and more.
+
+Documented key findings, insights, and strategic takeaways for business decisions.
+
+Skills Used:
+Power BI · Data Modeling · DAX · Data Visualization · Customer Segmentation · Loyalty Analytics · Revenue Analysis · What-If Scenarios · Drill-Through Reports · CLV Analysis · Dashboard Design · Excel
+
+### 🏥 Healthcare Appointment & Patient Experience Analysis 
+This project aimed to uncover operational and experiential insights within a healthcare facility by analyzing appointment patterns, wait times, patient satisfaction, and demographic trends. Using Power BI, the goal was to create a dynamic dashboard that informs healthcare administrators about system efficiency, equity, and opportunities for improving the patient journey.
+
+Key Highlights:
+
+- Wait Time Analysis:
+
+Calculated the average patient wait time before appointments to identify service delays.
+
+Analyzed patterns over time to assess system bottlenecks and propose scheduling optimizations.
+
+- Patient Satisfaction Insight:
+
+Evaluated average satisfaction scores to uncover drivers of patient experience.
+
+Correlated satisfaction levels with wait times, appointment types, and visit methods (walk-in vs. referral).
+
+- Patient Volume Trends:
+
+Visualized monthly trends in total patient visits to understand seasonal patterns and resource allocation needs.
+
+Tracked peaks and troughs in demand to aid in staffing and scheduling decisions.
+
+- Appointment Type Comparison:
+
+Distinguished between administrative vs. non-administrative appointments.
+
+Compared these types in terms of average wait time and satisfaction outcomes.
+
+- Demographic Breakdown:
+
+Analyzed patient visits by age group and race to highlight demographic representation and healthcare access trends.
+
+Supported diversity analysis and equitable care planning initiatives.
+
+- Dashboard Development:
+
+Designed a user-friendly interactive dashboard with slicers for demographic filters, time periods, and appointment types.
+
+Delivered key performance indicators (KPIs) on wait time, satisfaction, and visit distribution.
+
+Skills Used:
+Power BI · Data Analysis · Healthcare Analytics · Data Visualization · Patient Experience Metrics · Demographic Analysis · Time Series Analysis · Dashboard Design · KPI Reporting
+
+### 📊 Data Professionals Survey Analysis
+
+### 🏨 Hotel Booking Analysis
+
 ## SQL Projects 
 
 ### 🩺 Patient Health Records SQL Project
