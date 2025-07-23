@@ -106,6 +106,49 @@ Identify key products driving high revenue.
 Skills Used:
 Power BI · Data Modeling · DAX · Data Cleaning · Data Visualization · Business Intelligence · Sales Analysis · Customer Segmentation · Product Analytics · KPI Dashboards · Storytelling with Data
 
+### 📈 Excelerate User Engagement Project - Excelerate Internship Project
+This project delivers a comprehensive Power BI dashboard analyzing user behavior and opportunity sign-up trends on the Excelerate platform. The goal was to uncover patterns in engagement, rewards, and skill development to guide strategic growth and outreach.
+
+Dashboard Focus Areas:
+- User Demographics: Analyzed over 27K users by gender, country, and city, identifying geographic and segment-specific trends.
+- Opportunity Sign-Ups: Assessed sign-up patterns by opportunity type, category, and learner background.
+- Popular Skills & Rewards: Identified the most earned skills (e.g., Critical Thinking) and reward distribution by opportunity.
+- Academic & Gender Trends: Explored how academic levels and gender influence engagement and opportunity preferences.
+
+Key Highlights:
+- Over 11K users signed up for opportunities, with Data Visualization being the most popular across all segments.
+- Males had higher engagement across most categories, while specific opportunities resonated differently by academic level.
+- Internships delivered the highest rewards and skill points, while engagement-focused opportunities showed lower returns.
+- Skills data was normalized and cleaned to enable effective analysis and meaningful visualizations.
+
+Challenges Addressed:
+- Introduced a USER ID as a primary key to ensure dataset integrity.
+- Normalized multi-valued “Skills Earned” fields into a separate relational table.
+- Cleaned and categorized missing or invalid geographic and demographic data for accurate analysis.
+
+Skills Used:
+Power BI · Data Cleaning · Data Modeling · Data Visualization · User Behavior Analysis · Dashboard Design · Relational Data Management
+
+### 📊 Business Performance Project
+This project presents a comprehensive Power BI dashboard that analyzes key business performance indicators across financial health, revenue distribution, risk impact, workforce efficiency, and sustainability. The dashboard empowers business leaders to make strategic, data-driven decisions.
+
+Dashboard Focus Areas:
+- Financial Analysis: Tracked EBITDA, ROI, profit margin, and market share to assess profitability and investment performance.
+- Revenue Insights: Explored revenue by location and industry, identifying growth trends and forecasting accuracy.
+- Risk Management: Evaluated compliance and operational risks, insurance costs, and cost impact levels to mitigate financial threats.
+- Workforce Optimization: Assessed training investments, departmental performance, and revenue per employee.
+- Sustainability Metrics: Measured financial benefits of green initiatives and social responsibility efforts.
+
+Key Highlights:
+- Identified areas of strong financial health and those needing investment optimization.
+- Highlighted high-risk categories requiring immediate action.
+- Proposed strategies to reduce churn and enhance regional revenue.
+- Recommended aligning training budgets with departmental performance.
+- Stressed the importance of consistent ESG investment for long-term success.
+
+Skills Used:
+Power BI · Data Visualization · KPI Tracking · Business Intelligence · Strategic Analysis · Dashboard Design · Data-Driven Decision Making
+
 ### ✈️ Customer Loyalty & Flight Activity Analysis 
 This project focused on analyzing customer demographics, loyalty trends, flight activity, and revenue performance for a fictional airline loyalty program. The objective was to generate actionable insights through advanced Power BI dashboards by integrating multiple data sources, modeling relationships, and applying business logic to customer behavior and financial outcomes.
 
@@ -204,7 +247,29 @@ Designed a user-friendly interactive dashboard with slicers for demographic filt
 Delivered key performance indicators (KPIs) on wait time, satisfaction, and visit distribution.
 
 Skills Used:
-Power BI · Data Analysis · Healthcare Analytics · Data Visualization · Patient Experience Metrics · Demographic Analysis · Time Series Analysis · Dashboard Design · KPI Reporting
+Data Visualization · Patient Experience Metrics · Demographic Analysis · Time Series Analysis · Dashboard Design · KPI Reporting
+
+🛍️ Onyx Sales Data Breakdown Project
+This interactive Power BI dashboard analyzes Onyx's retail sales data to uncover insights into customer behavior, sales trends, return patterns, and promotional effectiveness. The aim is to support data-driven business decisions and improve overall performance.
+
+Dashboard Focus Areas:
+- Sales Performance Overview: Tracked key metrics like total quantity sold (30K), total price (1.65M), and average unit price (54.96).
+- Customer Satisfaction & Discounts: Monitored average customer satisfaction (2.98) and total discounts given (69.55K).
+- Customer Demographics: Analyzed gender distribution across customers—balanced engagement among male, female, and other users.
+- Returns Analysis: Compared return rates between online and in-store orders to understand product satisfaction and return behavior.
+- Shipping Efficiency: Assessed average delivery time by method (Express, Standard, Overnight) to identify operational strengths.
+- Promotions Impact: Visualized quantity sold with and without promotions to evaluate marketing effectiveness.
+- Temporal Trends: Displayed total price over time to track performance fluctuations from 2018 to 2024.
+
+Key Highlights:
+- Customer gender distribution was nearly even across all segments.
+- Return rates were slightly higher for online purchases.
+- Promotional sales had a marginally higher quantity than non-promotional, suggesting campaign success.
+- Delivery times were consistent across shipping methods, with Express being slightly faster.
+- Sales dipped in early 2020 and 2023 but rebounded strongly after.
+
+Skills Used:
+Data Visualization · DAX · Interactive Filtering · KPI Analysis · Consumer Behavior Analytics · Time Series Analysis
 
 ### 📊 Data Professionals Survey Analysis
 
