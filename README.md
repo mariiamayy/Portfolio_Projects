@@ -13,13 +13,13 @@ I always welcome feedback and suggestions to help me grow and improve.
 
 [Python](#python-projects)
 
-[Tableau](#tableau)
+View my vizzes here >> [Tableau](https://public.tableau.com/app/profile/mariam.ahmed7642/vizzes)
 
  
 
 ## Excel Projects 
 
-### 👩‍💼 Employee Data Analysis – Excel Assessment Project
+👩‍💼 [Employee Data Analysis – Excel Assessment Project](https://github.com/mariiamayy/Portfolio_Projects/tree/main/Excel/Employee%20Data%20Project) 
 
 This project involved analyzing employee data in Excel to uncover insights related to workforce performance, training, satisfaction, and diversity. The goal was to assess various HR metrics through pivot tables, formulas, charts, and dashboard creation, catering to different skill levels from beginner to advanced.
 
@@ -38,7 +38,7 @@ Key Highlights:
 Skills Used:
 Excel · Pivot Tables · Conditional Formatting · VLOOKUP · INDEX + MATCH · Data Visualization · Charts · Macros · SUMPRODUCT · Dashboard Design · HR Metrics Analysis
 
-### 📊 Employee Survey Data Analysis – Excel Assessment Project
+📊 [HR Survey Data Analysis – Excel Assessment Project](https://github.com/mariiamayy/Portfolio_Projects/blob/main/Excel/HR%20Employee%20Survey%20Project.xlsx)
 
 This project focused on analyzing employee survey responses using a wide range of Excel tools. The objective was to clean and validate data, derive insights from response patterns, and build dynamic reports and dashboards for HR decision-making. Designed for interns across all skill levels, the assessment emphasizes both foundational and advanced Excel capabilities.
 
@@ -64,9 +64,9 @@ Key Highlights:
 Skills Used:
 Excel · Data Cleaning · Data Validation · Conditional Formatting · Pivot Tables · VLOOKUP · INDEX-MATCH · IF Logic · Solver · Scenario Manager · Dynamic Ranges · Data Modeling · DAX · Dashboard Design · What-If Analysis · Charting
 
-### 📚 Best Seller Books Analysis 
+📚 [Best Seller Books Analysis](https://github.com/mariiamayy/Portfolio_Projects/blob/main/Excel/Best%20Seller%20Books%20Project.xlsx)
 
-### ☕ Coffee Orders Dashboard
+☕ [Coffee Orders Dashboard](https://github.com/mariiamayy/Portfolio_Projects/blob/main/Excel/Coffee%20Orders%20Project.xlsx)
 
 ## Power BI Projects 
 
@@ -382,8 +382,4 @@ Categorical Plot: Counted workouts by intensity level (Low, Moderate, High)
 Skills Used:
 Python · Pandas · Seaborn · Matplotlib · Data Cleaning · Feature Engineering · Data Visualization · Exploratory Data Analysis (EDA)
 
-
-## Tableau
-
-View my vizzes here >> [Tableau](https://public.tableau.com/app/profile/mariam.ahmed7642/vizzes). 
 
