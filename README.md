@@ -5,11 +5,15 @@ I always welcome feedback and suggestions to help me grow and improve.
 
 ### Contents 
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+[Excel](#excel-projects) 
+
+[Power BI](#power-bi-projects)
+
+[SQL](#sql-projects)
+
+[Python](#python-projects)
+
+[Tableau](#tableau)
 
  
 
@@ -65,46 +69,6 @@ Excel · Data Cleaning · Data Validation · Conditional Formatting · Pivot Tab
 ### ☕ Coffee Orders Dashboard
 
 ## Power BI Projects 
-
-### 📦 Olist E-Commerce  Dashboard Project - Tech Her Up Project 
-
-This project focused on analyzing Brazilian e-commerce data from Olist using Power BI to uncover business insights across sales performance, customer behavior, delivery metrics, and product trends. The goal was to create a comprehensive dashboard that supports strategic decision-making for growth, customer satisfaction, and operational efficiency.
-
-Key Highlights:
-
-- Imported and modeled multiple datasets, including orders, customers, payments, and geolocation data from Olist’s public Kaggle repository.
-- Built an interactive Sales & Performance Dashboard showing:
-
-Total revenue (~15.84M BRL), total orders (~99.44K), and number of active sellers (3,095).
-
-Year-over-year revenue growth, highlighting a peak in April 2018.
-
-Freight-to-order value ratio to analyze shipping cost impact on profitability.
-
-Average delivery times broken down by order stages, identifying delays mainly in the shipping phase.
-
-- Designed a Customer Analysis Dashboard showing:
-
-Distribution of customers by Brazilian states and top-performing cities.
-
-Identification of cities with highest customer count (São Paulo) and highest revenue (Rio de Janeiro).
-
-Breakdown of preferred payment methods with Credit Card usage dominating at 73.92%.
-
-- Developed a Product Analysis Dashboard to:
-
-Analyze order volume and pricing across 72 product categories.
-
-Highlight most ordered categories (e.g., Bed Bath Table) vs. most profitable (e.g., Health Beauty).
-
-Identify key products driving high revenue.
-
-- Proposed actionable recommendations based on the analysis, such as optimizing freight costs, improving delivery times, focusing marketing on top cities, and incentivizing preferred payment types.
-
-- Presented all insights in a clean, interactive Power BI report with slicers and filters for user-driven exploration.
-
-Skills Used:
-Power BI · Data Modeling · DAX · Data Cleaning · Data Visualization · Business Intelligence · Sales Analysis · Customer Segmentation · Product Analytics · KPI Dashboards · Storytelling with Data
 
 ### 📈 Excelerate User Engagement Project - Excelerate Internship Project
 This project delivers a comprehensive Power BI dashboard analyzing user behavior and opportunity sign-up trends on the Excelerate platform. The goal was to uncover patterns in engagement, rewards, and skill development to guide strategic growth and outreach.
