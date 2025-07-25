@@ -70,7 +70,8 @@ Excel · Data Cleaning · Data Validation · Conditional Formatting · Pivot Tab
 
 ## Power BI Projects 
 
-### 📈 Excelerate User Engagement Project - Excelerate Internship Project
+📈 [Excelerate User Engagement Project - Excelerate Internship Project](https://github.com/mariiamayy/Portfolio_Projects/tree/main/Power%20BI/Excelerate-Internship-Project)
+
 This project delivers a comprehensive Power BI dashboard analyzing user behavior and opportunity sign-up trends on the Excelerate platform. The goal was to uncover patterns in engagement, rewards, and skill development to guide strategic growth and outreach.
 
 Dashboard Focus Areas:
@@ -93,7 +94,8 @@ Challenges Addressed:
 Skills Used:
 Power BI · Data Cleaning · Data Modeling · Data Visualization · User Behavior Analysis · Dashboard Design · Relational Data Management
 
-### 📊 Business Performance Project
+📊 [Business Performance Project](https://github.com/mariiamayy/Portfolio_Projects/tree/main/Power%20BI/Business%20Performance%20Project)
+
 This project presents a comprehensive Power BI dashboard that analyzes key business performance indicators across financial health, revenue distribution, risk impact, workforce efficiency, and sustainability. The dashboard empowers business leaders to make strategic, data-driven decisions.
 
 Dashboard Focus Areas:
@@ -113,7 +115,8 @@ Key Highlights:
 Skills Used:
 Power BI · Data Visualization · KPI Tracking · Business Intelligence · Strategic Analysis · Dashboard Design · Data-Driven Decision Making
 
-### ✈️ Customer Loyalty & Flight Activity Analysis 
+✈️ [Customer Loyalty & Flight Activity Analysis](https://github.com/mariiamayy/Portfolio_Projects/tree/main/Power%20BI/Customer%20Loyalty%20%26%20Flight%20Activity%20Analysis)
+
 This project focused on analyzing customer demographics, loyalty trends, flight activity, and revenue performance for a fictional airline loyalty program. The objective was to generate actionable insights through advanced Power BI dashboards by integrating multiple data sources, modeling relationships, and applying business logic to customer behavior and financial outcomes.
 
 Key Highlights:
@@ -169,7 +172,8 @@ Documented key findings, insights, and strategic takeaways for business decision
 Skills Used:
 Power BI · Data Modeling · DAX · Data Visualization · Customer Segmentation · Loyalty Analytics · Revenue Analysis · What-If Scenarios · Drill-Through Reports · CLV Analysis · Dashboard Design · Excel
 
-### 🏥 Healthcare Appointment & Patient Experience Analysis 
+🏥 [Healthcare Appointment & Patient Experience Analysis](https://github.com/mariiamayy/Portfolio_Projects/tree/main/Power%20BI/Healthcare%20Appointment%20%26%20Patient%20Experience%20Analysis) 
+
 This project aimed to uncover operational and experiential insights within a healthcare facility by analyzing appointment patterns, wait times, patient satisfaction, and demographic trends. Using Power BI, the goal was to create a dynamic dashboard that informs healthcare administrators about system efficiency, equity, and opportunities for improving the patient journey.
 
 Key Highlights:
@@ -213,7 +217,8 @@ Delivered key performance indicators (KPIs) on wait time, satisfaction, and visi
 Skills Used:
 Data Visualization · Patient Experience Metrics · Demographic Analysis · Time Series Analysis · Dashboard Design · KPI Reporting
 
-🛍️ Onyx Sales Data Breakdown Project
+🛍️ [Onyx Sales Data Breakdown Project](https://github.com/mariiamayy/Portfolio_Projects/tree/main/Power%20BI/Onyx%20Data%20Analysis%20Project)
+
 This interactive Power BI dashboard analyzes Onyx's retail sales data to uncover insights into customer behavior, sales trends, return patterns, and promotional effectiveness. The aim is to support data-driven business decisions and improve overall performance.
 
 Dashboard Focus Areas:
@@ -235,17 +240,15 @@ Key Highlights:
 Skills Used:
 Data Visualization · DAX · Interactive Filtering · KPI Analysis · Consumer Behavior Analytics · Time Series Analysis
 
-### 📊 Data Professionals Survey Analysis
+📊 [Data Professionals Survey Analysis](https://github.com/mariiamayy/Portfolio_Projects/tree/main/Power%20BI/Data%20Professionals%20Survey%20Analysis)
 
-### 🏨 Hotel Booking Analysis
+🏨 [Hotel Booking Analysis](https://github.com/mariiamayy/Portfolio_Projects/tree/main/Power%20BI/Hotel%20Booking%20Analysis)
 
 ## SQL Projects 
 
-### 🩺 Patient Health Records SQL Project
+🩺 [Patient Health Records SQL Project](https://github.com/mariiamayy/Portfolio_Projects/tree/main/SQL/Patient%20Health%20Records%20SQL%20Project)
 
 This project explores patient data using SQL to perform analysis and manage healthcare records. The goal was to extract insights and maintain data integrity through various queries and operations.
-
-Query 
 
 Key Highlights:
 - Retrieved and filtered patients by age, gender, and medical conditions.
@@ -258,11 +261,9 @@ Key Highlights:
 Skills Used:
 SQL · Joins · Aggregation · Subqueries · Data Manipulation · Views · Constraints · Query Optimization
 
-### 🍽️ Restaurant Menu & Orders SQL Project
+🍽️ [Restaurant Menu & Orders SQL Project](https://github.com/mariiamayy/Portfolio_Projects/tree/main/SQL/Restaurant%20Menu%20%26%20Orders%20SQL%20Project)
 
 This project focuses on building and analyzing a restaurant’s menu and order system using SQL. It includes foundational to advanced SQL tasks for database design, data retrieval, and manipulation.
-
-Query 
 
 Key Highlights:
 - Convert raw datasets into SQL tables (menu_items, order_details)
@@ -275,11 +276,9 @@ Key Highlights:
 Skills Used:
 SQL · Joins · Aggregations · Subqueries · CTEs · Window Functions · Stored Procedures · Triggers · Indexing · Database Security
 
-### 🖼️ Famous Paintings & Artists SQL Project
+🖼️ [Famous Paintings & Artists SQL Project](https://github.com/mariiamayy/Portfolio_Projects/tree/main/SQL/Famous%20Paintings%20%26%20Artists%20SQL%20Project)
 
 This project explores a rich dataset of paintings, artists, museums, and artwork details using SQL. It answers analytical questions ranging from basic lookups to advanced CTEs and window functions.
-
-Query 
 
 Key Highlights:
 - Identify paintings not in museums and museums without artwork
@@ -291,15 +290,11 @@ Key Highlights:
 - Use CTEs, subqueries, and window functions to derive deeper insights
 
 Skills Used:
-SQL · Joins · Subqueries · Window Functions · Aggregate Functions · Common Table Expressions (CTEs)
+Joins · Subqueries · Window Functions · Aggregate Functions · Common Table Expressions (CTEs)
 
-### 📊 Northwind Sales & Customer Behavior SQL Project - Part of my Data Analysis Program with Carerha 
+📊 [Northwind Sales & Customer Behavior SQL Project - Part of my Data Analysis Program with Carerha](https://github.com/mariiamayy/Portfolio_Projects/tree/main/SQL/Northwind%20Sales%20SQL%20Project)
 
 This project explores the Northwind database using SQL to uncover insights related to sales performance, customer segmentation, product trends, order behavior, and employee efficiency. The objective was to support data-driven decision-making by writing targeted SQL queries and compiling a report that presents key findings, actionable insights, and their business implications.
-
-Query
-
-Report
 
 Key Highlights:
 - Segmented customers using RFM and Average Order Value analysis.
@@ -315,10 +310,9 @@ SQL · Joins · CTEs · Aggregation · Subqueries · Window Functions · Views �
 
 ## Python Projects 
 
-### 🧹 Customer & Products Data Cleaning Project
-This project involved cleaning preprocessing and merging customer and product datasets using Python to prepare them for downstream analysis and visualization.
+🧹 [Customer & Products Data Cleaning Project](https://github.com/mariiamayy/Portfolio_Projects/tree/main/Python/Customer%20%26%20Products%20Data%20Cleaning)
 
-Notebook 
+This project involved cleaning preprocessing and merging customer and product datasets using Python to prepare them for downstream analysis and visualization.
 
 Key Highlights:
 - Removed duplicates, handled null values, and corrected inconsistent data entries
@@ -328,33 +322,27 @@ Key Highlights:
 Skills Used:
 Pandas · Data Cleaning · Data Merging · Data Preprocessing
 
-### 🎬 Movie Data Cleaning Project
+🎬 [Movie Data Cleaning Project](https://github.com/mariiamayy/Portfolio_Projects/tree/main/Python/Movie%20Data%20Cleaning)
 
-### 🚔 Police Data Cleaning Project
+🚔 [Police Data Cleaning Project](https://github.com/mariiamayy/Portfolio_Projects/tree/main/Python/Police%20Data%20Cleaning)
 
-### 🌐 Web Scraping Project
-This project demonstrated web scraping techniques to collect data from online sources for custom analysis and reporting.
+🌐 [Web Scraping Project](https://github.com/mariiamayy/Portfolio_Projects/tree/main/Python/Web%20Scrapping)
 
-Notebook 
-
-Key Highlights:
-- Scraped structured and semi-structured data using requests and BeautifulSoup
- Cleaned and structured scraped data into tabular format
-- Exported results to CSV for future use in visualization or analysis
+This project demonstrated web scraping techniques to collect data from Wikipedia for custom analysis and reporting.
 
 Skills Used:
 Web Scraping · BeautifulSoup · Requests · Data Extraction 
 
-### 📊 Matplotlib Visualization Tasks
+📊 [Matplotlib Visualization Tasks](https://github.com/mariiamayy/Portfolio_Projects/blob/main/Python/Matplotlib%20Tasks.ipynb)
+
 A collection of visualization tasks completed using Matplotlib and Numpy to explore and communicate insights 
 
 Skills Used:
 Numpy · Matplotlib · Data Visualization · Plot Customization · Exploratory Data Analysis (EDA)
 
-### 🏋️‍♀️ Calories & Workouts Python Analysis Project
-This project explores and analyzes a workout dataset using Python. The main objective was to clean, transform, and visualize fitness data to uncover insights into workout duration, pulse, and calories burned.
+🏋️‍♀️ [Calories & Workouts Python Analysis Project](https://github.com/mariiamayy/Portfolio_Projects/blob/main/Python/Workout%20Records%20EDA.ipynb)
 
-Notebook 
+This project explores and analyzes a workout dataset using Python. The main objective was to clean, transform, and visualize fitness data to uncover insights into workout duration, pulse, and calories burned.
 
 Key Highlights:
 - Data Cleaning:
