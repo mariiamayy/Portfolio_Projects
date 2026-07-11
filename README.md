@@ -368,6 +368,6 @@ Scatter Plot: Analyzed the relationship between Pulse and Calories, colored by d
 Categorical Plot: Counted workouts by intensity level (Low, Moderate, High)
 
 Skills Used:
-Python · Pandas · Seaborn · Matplotlib · Data Cleaning · Feature Engineering · Data Visualization · Exploratory Data Analysis (EDA)
+Python · Pandas · Seaborn · Matplotlib · Data Cleaning · Feature Engineering · Data Visualization · Exploratory Data Analysis EDA
 
 
